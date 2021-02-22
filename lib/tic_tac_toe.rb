@@ -1,4 +1,4 @@
-
+TicTacToe.new.play
 class TicTacToe 
   
     WIN_COMBINATIONS =[
